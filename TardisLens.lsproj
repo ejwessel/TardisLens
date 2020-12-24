@@ -1,0 +1,1214 @@
+{
+    "lens_id": "",
+    "document_id": "sxopvhNSnRLtVJNYoIM-",
+    "original_document_id": "sxopvhNSnRLtVJNYoIM-",
+    "version": "26",
+    "lastChanged": "1608833482011",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "3",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "79797c43"
+                    ],
+                    [
+                        "8ca4ee08"
+                    ],
+                    [
+                        "Car Paint"
+                    ],
+                    [
+                        "Echopark"
+                    ],
+                    [
+                        "Echopark",
+                        "Diff"
+                    ],
+                    [
+                        "Echopark",
+                        "Specular"
+                    ],
+                    [
+                        "Soap Bubble"
+                    ],
+                    [
+                        "TARDIS",
+                        "Animations"
+                    ],
+                    [
+                        "TARDIS",
+                        "Materials",
+                        "Mat"
+                    ],
+                    [
+                        "TARDIS",
+                        "Materials",
+                        "d9c2a958_dds"
+                    ],
+                    [
+                        "TARDIS",
+                        "Meshes",
+                        "_1"
+                    ],
+                    [
+                        "TARDIS",
+                        "Meshes",
+                        "_2"
+                    ],
+                    [
+                        "TARDIS",
+                        "TARDIS"
+                    ],
+                    [
+                        "TardisScript"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Car_Paint_Noise"
+                    ],
+                    [
+                        "Textures",
+                        "iridescence_combined"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "56814dbefc6c60009fe6066406087653",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Tardis",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Idle Person 6.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:Preview\/InteractiveEnvironments\/Home",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1608831232701339:12052"
+                ]
+            ]
+        },
+        "Material::UiComponent": {
+            "active_graph_asset": "1608831596176465:67451"
+        },
+        "Script::UiComponent": {
+            "active_graph_asset": "-1:-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1588296316843646:534374",
+                    "name": "Files\/File3.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1588296316857901:534385",
+                    "name": "Files\/File5.jpeg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1608831189455037:6518",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1608831189480029:6536",
+                    "name": "Files\/File10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1608831189593550:6562",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1608831189664954:6585",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1608831189742076:6608",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1608831189837602:6624",
+                    "name": "Files\/File19.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1608831190206291:6733",
+                    "name": "TARDIS",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1608831444781009:38755",
+                    "name": "Files\/File31.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1608831596176465:67451",
+                    "name": "Files\/File33",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1608831596277712:67513",
+                    "name": "Files\/File35.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1608831768878980:89494",
+                    "name": "Files\/File37",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1608832006495543:124451",
+                    "name": "Files\/File39.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1608831191889660:6907",
+                "4": "1608831191988459:6917",
+                "5": "1608831191995740:6919",
+                "6": "1608831192120353:6936",
+                "7": "1608831232699943:12051",
+                "8": "1608831232701339:12052",
+                "9": "1608831232710788:12076",
+                "10": "1608832051466527:130177",
+                "11": "1608833006384295:257860"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "3",
+                    "v": "Files\/File3.jpeg"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.jpeg"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.jpeg"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.jpeg"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.hdr"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.lsmat"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.pvr"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.png"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.pvr"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.oprfb"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.obj"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.pvr"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.oprfb"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.pvr"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32.png"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.lsmat"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.jpg"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.jpg"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.lsmat"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "967",
+                        "v": "Echopark.hdr"
+                    },
+                    {
+                        "k": "968",
+                        "v": "8ca4ee08.png"
+                    },
+                    {
+                        "k": "969",
+                        "v": "79797c43.png"
+                    },
+                    {
+                        "k": "970",
+                        "v": "TARDIS.obj"
+                    },
+                    {
+                        "k": "971",
+                        "v": "..\/AdditionalFiles\/TARDIS\/Materials"
+                    },
+                    {
+                        "k": "972",
+                        "v": "..\/AdditionalFiles\/TARDIS\/Materials\/Mat.lsmat"
+                    },
+                    {
+                        "k": "973",
+                        "v": "..\/AdditionalFiles\/TARDIS\/Materials\/d9c2a958_dds.lsmat"
+                    },
+                    {
+                        "k": "975",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "976",
+                        "v": "Textures\/iridescence_combined.png"
+                    },
+                    {
+                        "k": "978",
+                        "v": "Textures\/Car_Paint_Noise.jpg"
+                    },
+                    {
+                        "k": "979",
+                        "v": "Car Paint.lsmat"
+                    },
+                    {
+                        "k": "980",
+                        "v": "Soap Bubble.lsmat"
+                    },
+                    {
+                        "k": "981",
+                        "v": "TardisScript.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "967",
+                        "v": "0cf0e87a54f33218fcf92a12d7f0ede2"
+                    },
+                    {
+                        "k": "968",
+                        "v": "f94e6de829c85541c79cc137281e537e"
+                    },
+                    {
+                        "k": "969",
+                        "v": "ba769bbe0e58221f456c9089afba4641"
+                    },
+                    {
+                        "k": "970",
+                        "v": "f64e47b81864eedf3908533427a356f4"
+                    },
+                    {
+                        "k": "972",
+                        "v": "41d8cfd1433c1d00cd75a9099dadd528"
+                    },
+                    {
+                        "k": "973",
+                        "v": "cbeb439a501bd2a456d6e292a740ade0"
+                    },
+                    {
+                        "k": "974",
+                        "v": "48c70366fa7815a53577c119fe437c7a"
+                    },
+                    {
+                        "k": "976",
+                        "v": "464f444dfcba88908c256dddc14e2779"
+                    },
+                    {
+                        "k": "977",
+                        "v": "8ccd17980349a882b756b07848b3770f"
+                    },
+                    {
+                        "k": "978",
+                        "v": "9e13a3cf7fa2e275d6f757a725205117"
+                    },
+                    {
+                        "k": "979",
+                        "v": "79bf2f6397ca0fbbdc2d0d53a0adbb36"
+                    },
+                    {
+                        "k": "980",
+                        "v": "cfa0a53a6b983d2f2a57f451ef551813"
+                    },
+                    {
+                        "k": "981",
+                        "v": "f27520706e5e6e20fab37c0536dbbbfc"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-12-24T10:10:59",
+                        "name": "Public",
+                        "hash": "f72c148808d8c364d551820bf71b1a88",
+                        "children": [
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-12-24T10:10:59",
+                                "name": "Car Paint.lsmat",
+                                "hash": "87f6321e0163103e4485ea3a46938fa8",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-12-24T09:42:36",
+                                "name": "Textures",
+                                "hash": "d5cc7b2f26048344d764f5738d911ac5",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-12-24T09:39:56",
+                                        "name": "Car_Paint_Noise.jpg",
+                                        "hash": "9e13a3cf7fa2e275d6f757a725205117",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-12-24T09:37:24",
+                                        "name": "iridescence_combined.png",
+                                        "hash": "464f444dfcba88908c256dddc14e2779",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-12-24T09:37:24",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-20T15:15:24",
+                                "name": "79797c43.png",
+                                "hash": "ba769bbe0e58221f456c9089afba4641",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-20T15:15:24",
+                                "name": "8ca4ee08.png",
+                                "hash": "f94e6de829c85541c79cc137281e537e",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-04-20T15:15:24",
+                                "name": "TARDIS.obj",
+                                "hash": "f64e47b81864eedf3908533427a356f4",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-12-17T04:47:18",
+                                "name": "Echopark.hdr",
+                                "hash": "0cf0e87a54f33218fcf92a12d7f0ede2",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-12-24T10:10:59",
+                                "name": "Soap Bubble.lsmat",
+                                "hash": "cea79df05e74907b7ec693a1c18399d3",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-12-24T09:46:55",
+                                "name": "TardisScript.js",
+                                "hash": "f27520706e5e6e20fab37c0536dbbbfc",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-12-17T04:47:18",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Render Target",
+                        "type": "1",
+                        "subtype": "1",
+                        "resourceId": "1",
+                        "dependency": "0",
+                        "uid": "1:1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "type": "1",
+                        "subtype": "3",
+                        "resourceId": "2",
+                        "dependency": "0",
+                        "uid": "2:2",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Echopark",
+                        "type": "9",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "7",
+                        "originalId": "18446744073709551615",
+                        "publicId": "967",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "10",
+                                "dependency": "1",
+                                "uid": "1588296316843646:534374",
+                                "fileId": "3",
+                                "originalId": "4",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Specular",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "1",
+                                "uid": "1588296316857901:534385",
+                                "fileId": "5",
+                                "originalId": "6",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "8ca4ee08",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "16",
+                        "dependency": "0",
+                        "uid": "1608831189742076:6608",
+                        "fileId": "16",
+                        "originalId": "17",
+                        "publicId": "968",
+                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-QbYEJq\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "79797c43",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "17",
+                        "dependency": "0",
+                        "uid": "1608831189837602:6624",
+                        "fileId": "19",
+                        "originalId": "20",
+                        "publicId": "969",
+                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-QbYEJq\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                        "additional": ""
+                    },
+                    {
+                        "name": "TARDIS",
+                        "type": "18",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "2",
+                        "uid": "-1:-1",
+                        "fileId": "23",
+                        "originalId": "18446744073709551615",
+                        "publicId": "970",
+                        "source": "\/Users\/ejwessel\/Desktop\/TARDIS\/TARDIS.obj",
+                        "additional": {
+                            "materialMapping": [
+                                {
+                                    "k": "Mat",
+                                    "v": "1608831189593550:6562"
+                                },
+                                {
+                                    "k": "d9c2a958_dds",
+                                    "v": "1608831189664954:6585"
+                                }
+                            ]
+                        },
+                        "resources": [
+                            {
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "_1",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "1",
+                                        "uid": "1608831189455037:6518",
+                                        "fileId": "8",
+                                        "originalId": "9",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-QbYEJq\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "_2",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "1",
+                                        "uid": "1608831189480029:6536",
+                                        "fileId": "10",
+                                        "originalId": "11",
+                                        "publicId": "18446744073709551615",
+                                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-QbYEJq\/\/system\/\/emergencyFiles\/emergencyMesh.mesh",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Animations",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "1",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": "",
+                                "resources": ""
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "971",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Mat",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "uid": "1608831189593550:6562",
+                                        "fileId": "12",
+                                        "originalId": "13",
+                                        "publicId": "972",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "d9c2a958_dds",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "15",
+                                        "dependency": "0",
+                                        "uid": "1608831189664954:6585",
+                                        "fileId": "14",
+                                        "originalId": "15",
+                                        "publicId": "973",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "TARDIS",
+                                "type": "12",
+                                "subtype": "-1",
+                                "resourceId": "18",
+                                "dependency": "1",
+                                "uid": "1608831190206291:6733",
+                                "fileId": "22",
+                                "originalId": "25",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "975",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "iridescence_combined",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1608831444781009:38755",
+                                "fileId": "31",
+                                "originalId": "32",
+                                "publicId": "976",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-QbYEJq\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Car_Paint_Noise",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "uid": "1608831596277712:67513",
+                                "fileId": "35",
+                                "originalId": "36",
+                                "publicId": "978",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-QbYEJq\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Car Paint",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "22",
+                        "dependency": "0",
+                        "uid": "1608831596176465:67451",
+                        "fileId": "33",
+                        "originalId": "34",
+                        "publicId": "979",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Soap Bubble",
+                        "type": "2",
+                        "subtype": "1",
+                        "resourceId": "24",
+                        "dependency": "0",
+                        "uid": "1608831768878980:89494",
+                        "fileId": "37",
+                        "originalId": "38",
+                        "publicId": "980",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "TardisScript",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "25",
+                        "dependency": "0",
+                        "uid": "1608832006495543:124451",
+                        "fileId": "39",
+                        "originalId": "18446744073709551615",
+                        "publicId": "981",
+                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-LHMXOW\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1608831189664954:6585",
+                        "path_list": [
+                            "TARDIS",
+                            "Materials",
+                            "d9c2a958_dds"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": "",
+            "24": "",
+            "25": "",
+            "26": "",
+            "27": "",
+            "28": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": [
+                    {
+                        "k": "1608831191889660:6907",
+                        "v": {
+                            "prefab": "1608831190206291:6733",
+                            "isActive": "true",
+                            "mapping": [
+                                {
+                                    "k": "1608831190033101:6640",
+                                    "v": "1608831191889660:6907"
+                                },
+                                {
+                                    "k": "1608831190035796:6642",
+                                    "v": "1608831191988459:6917"
+                                },
+                                {
+                                    "k": "1608831190036333:6644",
+                                    "v": "1608831191995740:6919"
+                                },
+                                {
+                                    "k": "1608831190036685:6646",
+                                    "v": "1608831192038538:6921"
+                                },
+                                {
+                                    "k": "1608831190201321:6719",
+                                    "v": "1608831192120353:6936"
+                                },
+                                {
+                                    "k": "1608831190201899:6721",
+                                    "v": "1608831192133516:6938"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            "importInfo": [
+                {
+                    "k": "1608831190206291:6733",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1608831190033101:6640"
+                        },
+                        {
+                            "k": [
+                                "Scene Object"
+                            ],
+                            "v": "1608831190035796:6642"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "_1"
+                            ],
+                            "v": "1608831190036333:6644"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "_1",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1608831190036685:6646"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "_2"
+                            ],
+                            "v": "1608831190201321:6719"
+                        },
+                        {
+                            "k": [
+                                "Scene Object",
+                                "_2",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1608831190201899:6721"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Compression::IController": {
+            "compression_info": [
+                {
+                    "k": "1608831189742076:6608",
+                    "v": {
+                        "infos": {
+                            "originalSize": "45103",
+                            "compressedSize": "16936",
+                            "originalRAM": "262144",
+                            "compressedRAM": "32768",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "18",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "f94e6de829c85541c79cc137281e537e",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "24"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "k": "1608831189837602:6624",
+                    "v": {
+                        "infos": {
+                            "originalSize": "1764172",
+                            "compressedSize": "650013",
+                            "originalRAM": "16777216",
+                            "compressedRAM": "2097152",
+                            "extension": "png",
+                            "settings": {
+                                "isCompressed": "true",
+                                "level": "2",
+                                "type": "1"
+                            }
+                        },
+                        "uncompressed_file": "21",
+                        "compressed_files": [
+                            {
+                                "k": {
+                                    "uncompressed_hash": "ba769bbe0e58221f456c9089afba4641",
+                                    "settings_hash": "2049"
+                                },
+                                "v": "26"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
